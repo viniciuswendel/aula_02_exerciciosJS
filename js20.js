@@ -12,6 +12,6 @@ const media = (numero)=> {
 }
 
 let numeros = [50, 60, 70, 80, 90, 100]
-let calcMedia = media(numeros)
+let calcMedia = media(numeros) 
 
-console.log(`Média: ${calcMedia}`);
+console.log(`\nMédia: ${calcMedia}\n`);
